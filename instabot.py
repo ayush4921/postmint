@@ -4,8 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 
-username = "ayushgarg4921" #Enter your username
-password = "surfactant-19092004" #Enter your password
+username = "" #Enter your username
+password = "" #Enter your password
 image_path = r"C:\covid-copy2\Fruits\272782_1100.jpg" #The written path is just an example, Delete the path and Enter the Path of your image. #1. path should not start with a back slash
 caption = "This is an image uploaded by AI" #Enter the caption 
 
